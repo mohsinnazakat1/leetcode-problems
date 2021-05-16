@@ -1,0 +1,11 @@
+problem
+=======
+485. Max Consecutive Ones
+Given a binary array nums, return the maximum number of consecutive 1's in the array.
+
+Details
+=======
+41 / 41 test cases passed.
+Status: Accepted
+Runtime: 2 ms
+Memory Usage: 41.1 MB
