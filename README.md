@@ -9,7 +9,7 @@
 
 ## About Leetcode 
 
-Leetcode is the site where I practice my coding skills for enhancing them and becoming a better programmer. It contains multiple solution of a certain problem and when you give your solution for a particular problem it compares it with current solutions and rank the it.
+Leetcode is the site where I practice my coding skills for enhancing them and becoming a better programmer. It contains multiple solutions of a certain problem. When you give your solution for a particular problem it compares it with existing solutions and rank your it.
 
 ## Languages
 
