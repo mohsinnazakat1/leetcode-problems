@@ -17,7 +17,7 @@ I have used following languages for solving leetcode problems
 - Java
 - Python 
 
-## Structure of repo
+## Structure of Repository
 
 For a single leetcode problem I have uploaded a folder which contains a code file (.py or .java) and a description file file which contains the description of problem and solution i wrote for it.
 
