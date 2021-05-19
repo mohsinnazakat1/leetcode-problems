@@ -26,7 +26,7 @@ For a single leetcode problem I have uploaded a folder which contains a code fil
 
 ## Author
 
-Get Connected to me on LinkedIn:
+Get Connected to me on LinkedIn
 
 #### Mohsin Nazakat
 
